@@ -8,7 +8,7 @@ build/
 # VS Code specific files (settings, workspace configurations)
 .vscode/
 
-# Log files (npm and general)
+# Log files (npm and general)+++
 *.log
 npm-debug.log*
 
